@@ -22,4 +22,5 @@ for i in range(loc_time):
     time.sleep(1)
 print("", end='\n')
 stop = playsound("erro-2.mp3")
+stop
 print("Done")
